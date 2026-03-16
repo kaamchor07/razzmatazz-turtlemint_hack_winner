@@ -128,17 +128,6 @@ src/
     └── assets/
 ```
 
-## Security
-
-⚠️ **NEVER commit real API keys or tokens to the repository.**
-
-- Use `.env.local` for local development (ignored by `.gitignore`)
-- Use `.env.example` as a template for required variables
-- For production, set environment variables in your deployment platform (Vercel, etc.)
-- **If you accidentally commit secrets:**
-  - Rotate the keys immediately
-  - Use `git-filter-repo` or `BFG Repo-Cleaner` to remove them from history
-  - Force push the cleaned history
 
 ## API Endpoints
 
