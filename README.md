@@ -2,6 +2,15 @@
 
 A modern full-stack platform for insurance agents to manage customer relationships, generate AI-powered content for multiple platforms, and deploy custom websites.
 
+## Demo
+
+Watch the platform in action:
+
+<video width="100%" controls>
+  <source src="public/assets/demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **User Authentication** – Sign up and sign in for insurance agents
