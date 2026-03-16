@@ -6,7 +6,7 @@ A modern full-stack platform for insurance agents to manage customer relationshi
 
 Watch the platform in action:
 
-https://github.com/kaamchor07/razzmatazz-turtlemint_hack_winner/assets/demo/demo.mp4
+![Razzmatazz Demo](public/assets/demo/demo.gif)
 
 ## Features
 
